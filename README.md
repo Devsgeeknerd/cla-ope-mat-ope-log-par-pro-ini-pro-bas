@@ -16,6 +16,7 @@
 <!--  * [O que aprendi](#o-que-aprendi) -->
 <!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
 <!--  * [Recursos úteis](#recursos-úteis) -->
+<!-- * [Autor](#autor) -->
 
 ## INFORMAÇÕES
 
