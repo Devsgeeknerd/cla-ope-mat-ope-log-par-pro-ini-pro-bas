@@ -3,6 +3,7 @@
 ***Conteúdo do Curso:***
 
 * [ ] Flex Container.
+* [ ] Flex Item.
 
 ## INFORMAÇÕES
 
