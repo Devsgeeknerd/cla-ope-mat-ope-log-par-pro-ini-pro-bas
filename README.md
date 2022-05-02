@@ -15,6 +15,7 @@
 <!--  * [Construído com](#construido-com) -->
 <!--  * [O que aprendi](#o-que-aprendi) -->
 <!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
+<!--  * [Recursos úteis](#recursos-úteis) -->
 
 ## INFORMAÇÕES
 
