@@ -17,6 +17,7 @@
 <!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
 <!--  * [Recursos úteis](#recursos-úteis) -->
 <!-- * [Autor](#autor) -->
+<!-- * [Agradecimentos](#agradecimentos) -->
 
 ## INFORMAÇÕES
 
