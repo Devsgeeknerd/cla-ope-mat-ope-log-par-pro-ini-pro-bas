@@ -42,6 +42,7 @@
 <!-- ### DESENVOLVIMENTO CONTÍNUO -->
 
 <!-- USEFUL RESOURCES -->
+<!-- ### RECURSOS ÚTEIS -->
 
 ## INFORMAÇÕES
 
