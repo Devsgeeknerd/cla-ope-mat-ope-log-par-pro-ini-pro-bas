@@ -48,6 +48,7 @@
 <!-- ## AUTOR -->
 
 <!-- ACKNOWLEDGMENTS -->
+<!-- ## AGRADECIMENTOS -->
 
 ## INFORMAÇÕES
 
