@@ -39,6 +39,7 @@
 <!-- ### O QUE APRENDI -->
 
 <!-- CONTINUED DEVELOPMENT -->
+<!-- ### DESENVOLVIMENTO CONTÍNUO -->
 
 ## INFORMAÇÕES
 
