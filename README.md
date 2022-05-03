@@ -4,7 +4,7 @@
 
 * [ ] Flex Container.
 * [ ] Flex Item.
-* [ ] Projeto — Devsblog.
+* [ ] Projeto — DevsBlog.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
