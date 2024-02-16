@@ -5,6 +5,22 @@
 
 [Exemplos.](main.ts)
 
+> [!IMPORTANT]\
+> **Boas práticas**:
+>
+> * Uso de tipos de dados específicos (number, string) para garantir operações apropriadas.
+> * Comentários concisos e claros para explicar cada operação.
+
+> [!WARNING]\
+> **Sugestões de melhoria**:
+>
+> * Pode ser útil adicionar espaços em torno dos operadores para melhor legibilidade.
+
+> [!NOTE]\
+> **Observações**:
+>
+> * A divisão entre dois números inteiros resultará em um número de ponto flutuante.
+
 <!-- Informações -->
 ## &#8505; Informações
 

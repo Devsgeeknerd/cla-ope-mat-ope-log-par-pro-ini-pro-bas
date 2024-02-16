@@ -4,24 +4,24 @@ let num2: number = 3;
 
 // Operação de soma
 let soma: number = num1 + num2;
-console.log(soma); // Saída: 8.
+console.log(soma);
 
 // Operação de subtração.
 let subtracao: number = num1 - num2;
-console.log(subtracao); // Saída: 2.
+console.log(subtracao);
 
 // Operação de multiplicação.
 let multiplicacao: number = num1 * num2;
-console.log(multiplicacao); // Saída: 15.
+console.log(multiplicacao);
 
 // Operação de divisão.
 let divisao: number = num1 / num2;
-console.log(divisao); // Saída: 1.6666666666666667.
+console.log(divisao);
 
 // Operação de módulo (resto da divisão).
 let modulo: number = num1 % num2;
-console.log(modulo); // Saída: 2.
+console.log(modulo);
 
 // Concatenação de strings.
 let concatenacao: string = "Paulo" + " " + "Vanderley";
-console.log(concatenacao); // Saída: "Paulo Vanderley".
+console.log(concatenacao);
